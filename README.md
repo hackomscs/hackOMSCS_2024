@@ -66,7 +66,7 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 # Submitting your Hack
 
-Submit your project on devpost and sign up for a demo slot (optional). More information to be posted.
+Submit your project on devpost, link here: [hackomscs devpost](https://hackomscs.devpost.com/). Make sure you select what challenges you are entering (you can select multiple). Make sure you include a link to your github or code. Make sure you include all team members in your ReadMe, and that they are all added to the Devpost submssion. It is highly recommended you either give a demo or submit a demo video. Sign up for a demo time slot here (optional): (time slot spreadsheet)[https://docs.google.com/spreadsheets/d/1Oa-LwFqC2fHPTha35G1steSmuKuNiJft8tQ_ydxnRqE/edit]
 
 # Event Logistics
 
