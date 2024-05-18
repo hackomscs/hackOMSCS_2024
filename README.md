@@ -66,14 +66,14 @@ So don't worry about coming up with the next big idea or building the next Faceb
 
 # Submitting your Hack
 
-Submit your project on devpost, link here: [hackomscs.devpost.com](https://hackomscs.devpost.com/). Make sure you select what challenges you are entering (you can select multiple). Make sure you include a link to your github or code. Make sure you include all team members in your ReadMe, and that they are all added to the Devpost submssion. It is highly recommended you either give a demo or submit a demo video. Sign up for a demo time slot here (optional): (Time Slot Spreadsheet - Editable)[https://docs.google.com/spreadsheets/d/1Oa-LwFqC2fHPTha35G1steSmuKuNiJft8tQ_ydxnRqE/edit]
+Submit your project on devpost, link here: [hackomscs.devpost.com](https://hackomscs.devpost.com/). Make sure you select what challenges you are entering (you can select multiple). Make sure you include a link to your github or code. Make sure you include all team members in your ReadMe, and that they are all added to the Devpost submssion. It is highly recommended you either give a demo or submit a demo video. Sign up for a demo time slot here (optional): [Time Slot Spreadsheet - Editable](https://docs.google.com/spreadsheets/d/1Oa-LwFqC2fHPTha35G1steSmuKuNiJft8tQ_ydxnRqE/edit)
 
 # Demos
 After hacking finishes, teams will show their projects to each other and to the judges.
 
 You are strongly encouraged to present a demo of what you have built. Pitches or presentations are discouraged. You are not judged on the quality of your pitch or the quality of your idea. As you are judged on what you built, you'll only hurt yourself by not showing a demo.
 
-You are encouraged to present what you have done even if your hack is broken or you weren't able to finish. It's okay if you didn't finish your hack-that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build-that's what hacking's all about! Sign up here: (Time Slot Spreadsheet - Editable)[https://docs.google.com/spreadsheets/d/1Oa-LwFqC2fHPTha35G1steSmuKuNiJft8tQ_ydxnRqE/edit]
+You are encouraged to present what you have done even if your hack is broken or you weren't able to finish. It's okay if you didn't finish your hack-that happens all the time! Completion is only one part of the judging criteria, so you might still do well. Also, demoing is not just about the competition. It's a chance to share with others what you learned and what you tried to build-that's what hacking's all about! Sign up here: [Time Slot Spreadsheet - Editable](https://docs.google.com/spreadsheets/d/1Oa-LwFqC2fHPTha35G1steSmuKuNiJft8tQ_ydxnRqE/edit)
 
 # Event Logistics
 
